@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahons
 - 👀 I’m interested in frontend and backend app development
 - 🌱 I’m currently learning ... javascript, react and reactnative
-- 💞️ I’m looking to collaborate on any exciting project to develop my programming muscel.
+- 💞️ I’m looking to collaborate on any exciting project to develop my programming muscle.
 - 📫 How to reach me, email: ahonsiabiodun@gmail.com
 
 <!---
